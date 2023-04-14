@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ansh2703
 - 👀 I’m interested in Web-Development 
-- 🌱 I’m currently learning java-script
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on web-dev projects
 
 <!---
