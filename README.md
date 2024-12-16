@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh2703&label=Profile%20views&color=0e75b6&style=flat" alt="ansh2703" /> </p>
 
-- 🔭 I’m currently working on **Employee Performance Analytics**
+- 🔭 I’m currently working on **Data Analysis Projects**
 
 - 🌱 I’m currently learning **React.js ,Data Structure and Algorithm, Software Testing, System Design Principles**
 
