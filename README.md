@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh2703&label=Profile%20views&color=0e75b6&style=flat" alt="ansh2703" /> </p>
 
-- 🔭 I’m currently working on **Data Analysis Projects**
+- 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **React.js ,Data Structure and Algorithm, Software Testing, System Design Principles**
+- 🌱 I’m currently learning **React.js ,Data Structure and Algorithm, Software development, System Design Principles**
 
 - 👯 I’m looking to collaborate on **Data analysis projects and solutions.**
 
@@ -16,8 +16,6 @@
 - 💬 Ask me about **Python, Data Analysis, NLP, and Frontend Development.**
 
 - 📫 How to reach me **anshtripathi220@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HXvNg8CZ4Rc5I1iyifWpdNlztRek3k92/view?usp=sharing](https://drive.google.com/file/d/1HXvNg8CZ4Rc5I1iyifWpdNlztRek3k92/view?usp=sharing)
 
 - ⚡ Fun fact **I have a knack for music, love performing in music events and enjoy learning new skills.**
 
